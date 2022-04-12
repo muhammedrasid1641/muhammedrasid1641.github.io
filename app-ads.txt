@@ -1059,3 +1059,11 @@ appnexus.com, 2764, RESELLER
 appnexus.com, 10617, RESELLER
 appnexus.com, 9393, RESELLER
 telaria.com, rwd19-4035550, RESELLER, 1a4e959a1b50034a
+applovin.com, 41bd31cb43bc74458d67883fc0c2da16, DOĞRUDAN
+adcolony.com, 5d8cbf6671c93a42, SATICI, 1ad675c9de6b5176
+rubiconproject.com, 16356, SATICI, 0bfd66d529a55807
+openx.com, 540785403, SATICI, 6a698e2ec38604c6
+pubmatic.com, 159509, SATICI, 5d62403b186f2ace
+pubnative.net, 1007170, SATICI, d641df8625486a7b
+verve.com, 15290, SATICI, 0c8f5958fc2d6270
+indexexchange.com, 192829, SATICI, 50b1c356f2c5c8fc
